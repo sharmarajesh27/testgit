@@ -2,3 +2,6 @@ HI
 I am testin the pull request
 ok
 bye
+new lines of code
+here i am updating the file
+thnks
