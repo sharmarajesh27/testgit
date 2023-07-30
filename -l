@@ -1,0 +1,134 @@
+[33mcommit aa7234102df310249b2c771f7a25289acbbaf37b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Sun Jul 30 17:51:16 2023 +0530
+
+    test99 modified
+
+[33mcommit 319301419286bfe8e41e7b49a9e1e5db70bb5091[m[33m ([m[1;33mtag: V1.1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rajesh <rajesh.sharma3@globallogic.com>
+Date:   Sun Jul 30 13:48:40 2023 +0530
+
+    new fole test99 added to dir'
+
+[33mcommit ba307b67ca4edf788abd850f143d13874c0ddcf2[m
+Author: Rajesh <rajesh.sharma3@globallogic.com>
+Date:   Sun Jul 30 13:47:22 2023 +0530
+
+    test pull file updated with new code
+
+[33mcommit 6e199af9ed56f5f0fc3ee0e541a871e11b42d458[m[33m ([m[1;33mtag: V1.0[m[33m)[m
+Merge: d09f426 f51604a
+Author: sharmarajesh27 <127852916+sharmarajesh27@users.noreply.github.com>
+Date:   Sun Jul 30 12:14:42 2023 +0530
+
+    Merge pull request #1 from ritanyasharma/main
+    
+    Updated read me file and two new files added
+
+[33mcommit f51604a8134f3e790016129da2984cb2a5e53f43[m
+Author: ritanyasharma <128076646+ritanyasharma@users.noreply.github.com>
+Date:   Sun Jul 30 12:07:17 2023 +0530
+
+    Updated readme file
+
+[33mcommit 1e9843706fd0654258c1446971dcdea71dd50aae[m
+Author: ritanyasharma <128076646+ritanyasharma@users.noreply.github.com>
+Date:   Sun Jul 30 12:05:21 2023 +0530
+
+    new file DAX cheat sheet added
+
+[33mcommit c5c03f5132987226a81f8aa54cd7463170f225e9[m
+Author: ritanyasharma <128076646+ritanyasharma@users.noreply.github.com>
+Date:   Sun Jul 30 12:04:16 2023 +0530
+
+    created new file file test _pull.txt
+    
+    created new file file test _pull.txt
+
+[33mcommit d09f426818fb3964a56c66d3a0139f04334c9136[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Sat Jul 29 13:08:33 2023 +0530
+
+    cheatsheet file deleted
+
+[33mcommit 823917827f7a7bfc15455178dba66eebfed1d3d4[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Sat Jul 29 13:06:52 2023 +0530
+
+    name.txt file deleted
+
+[33mcommit 275612029f9f2bca36ae1e952ba74be2fa2cbed0[m
+Author: sharmarajesh27 <127852916+sharmarajesh27@users.noreply.github.com>
+Date:   Sat Jul 29 12:51:32 2023 +0530
+
+    new cheatsheet
+    
+    new cheatsheet
+
+[33mcommit 7ea0bd504fa52346d9567d47ac9707ddc968663a[m
+Author: sharmarajesh27 <127852916+sharmarajesh27@users.noreply.github.com>
+Date:   Sat Jul 29 12:49:59 2023 +0530
+
+    adding new file here
+
+[33mcommit 030fdf47e106e2cfc5e7fa94c7c0efbb0cd99ba2[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Sat Jul 29 11:45:18 2023 +0530
+
+    replacing a line in login.html
+
+[33mcommit 8a4c8d7a82871f5c661082f9494ad16f86705c05[m
+Merge: 2595f3f cb7b2d1
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Fri Jul 28 18:19:49 2023 +0530
+
+    Merge branch 'main' of https://github.com/sharmarajesh27/testgit
+
+[33mcommit 2595f3f833a68912cf1c0b14b773b951dbaa1ade[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Fri Jul 28 18:16:12 2023 +0530
+
+    new line is there in contact.html
+
+[33mcommit cb7b2d1f2184df43eacbc40b1c47d44acaef070f[m
+Author: Rajesh <rajesh.sharma3@globallogic.com>
+Date:   Fri Jul 28 18:14:32 2023 +0530
+
+    new line added to login.html
+
+[33mcommit e142b98a2573d585e4063d882d93e17568dc7875[m
+Merge: 95352ab 72f515e
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Fri Jul 28 18:04:36 2023 +0530
+
+    Merge branch 'main' of https://github.com/sharmarajesh27/testgit
+
+[33mcommit 95352abccdca28a7f253f84c62d05897ab0b49ca[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Fri Jul 28 17:36:55 2023 +0530
+
+    login file updated with additional detail
+
+[33mcommit 72f515e160f8641fb8ba9b1f027077065732f05f[m
+Author: Rajesh <rajesh.sharma3@globallogic.com>
+Date:   Fri Jul 28 17:30:51 2023 +0530
+
+    login detail added to login.html
+
+[33mcommit 1ea689272648c229d2e92d2f442e8ab4fffda2ac[m
+Author: rsharma84 <sharmarajesh27@gmail.com>
+Date:   Fri Jul 28 16:50:34 2023 +0530
+
+    email ID updated in contact
+
+[33mcommit f7fc2e1ee66b2ef31eb1e384f48898a230227656[m
+Author: Rajesh <rajesh.sharma3@globallogic.com>
+Date:   Fri Jul 28 16:17:47 2023 +0530
+
+    added index and contact files
+
+[33mcommit 100c1c4ba4ad4124bf0769b27c43b32cf42a1efa[m
+Author: sharmarajesh27 <127852916+sharmarajesh27@users.noreply.github.com>
+Date:   Fri Jul 28 15:31:25 2023 +0530
+
+    Initial commit
